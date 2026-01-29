@@ -17,4 +17,8 @@ lien pour s'abonner au calendrier du semestre: sujets de théorie, lancements et
 
 ## Support de cours
 
-Liens Notion - cours Projet IMD de Mme Dreyer
+Liens Notion - [cours Projet IMD de Mme Dreyer](https://dreyer-eracom.notion.site/ID451-Projet-interface-2-2ed91f403a6c81d49711f910e7442284)
+
+### Petits cours théoriques
+
+* [Fontes Variables](https://cours-web.ch/typographie/fontes-variables.html) - cours du 30 janvier
