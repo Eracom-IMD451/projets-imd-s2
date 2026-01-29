@@ -22,3 +22,5 @@ Liens Notion - [cours Projet IMD de Mme Dreyer](https://dreyer-eracom.notion.sit
 ### Petits cours théoriques
 
 * [Fontes Variables](https://cours-web.ch/typographie/fontes-variables.html) - cours du 30 janvier
+* Les fontes interdites - cours du 6 février
+* Intro à Git - cours du 13 février
