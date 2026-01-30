@@ -2,6 +2,11 @@
 
 Cours Projets IMD du semestre 2, classe ID451
 
+## Projets et mandats
+
+- [A : Logitech digital art gallery](https://eduvaud.sharepoint.com/:f:/r/sites/ERACOM_2526_ID451_Teams/Documents%20partages/Projets%20IMD/A-Logitech?csf=1&web=1&e=iORDKZ) (lien Sharepoint)
+- [B : Specimens Typo](https://dreyer-eracom.notion.site/Projet-1-Sp-cimens-Typo-2ef91f403a6c8010a24fdb9b30001c98?pvs=74) (lien Notion)
+
 ## Liens utiles
 
 - [Teams ID451 - Canal Projet IMD](https://teams.microsoft.com/l/channel/19%3Acec0ec05e7c3401288886fc9a79da0a9%40thread.tacv2/Projets%20IMD?groupId=3fb4d0ee-acb4-42bb-b635-53124b432c58&tenantId=906ab908-04f9-4a80-ba9c-875a36e77bc1)
@@ -11,16 +16,12 @@ lien pour s'abonner au calendrier du semestre: sujets de théorie, lancements et
 ([lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export)) - 
 ([lien https](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export))
 
-## Projets et mandats
+### Support de cours
 
-- [Projet Interface : Specimens Typo](https://dreyer-eracom.notion.site/Projet-1-Sp-cimens-Typo-2ef91f403a6c8010a24fdb9b30001c98?pvs=74) (lien notion)
-
-## Support de cours
-
-Liens Notion - [cours Projet IMD de Mme Dreyer](https://dreyer-eracom.notion.site/ID451-Projet-interface-2-2ed91f403a6c81d49711f910e7442284)
+Liens Notion - [cours Projet IMD de Mylène Dreyer](https://dreyer-eracom.notion.site/ID451-Projet-interface-2-2ed91f403a6c81d49711f910e7442284)
 
 ### Petits cours théoriques
 
-* [Fontes Variables](https://cours-web.ch/typographie/fontes-variables.html) - cours du 30 janvier
-* Les fontes interdites - cours du 6 février
-* Intro à Git - cours du 13 février
+* [Fontes Variables](https://cours-web.ch/typographie/fontes-variables.html) - M. Schmalstieg – cours du 30.01.26
+* Les fontes interdites - M. Schmalstieg – cours du 06.02.26
+* Intro à Git - M. Schmalstieg – cours du 13.02.26
