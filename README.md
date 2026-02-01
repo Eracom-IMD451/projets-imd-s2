@@ -16,7 +16,7 @@ lien pour s'abonner au calendrier du semestre: sujets de théorie, lancements et
 ([lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export)) - 
 ([lien https](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export))
 
-### Support de cours
+### Supports de cours
 
 Liens Notion - [cours Projet IMD de Mylène Dreyer](https://dreyer-eracom.notion.site/ID451-Projet-interface-2-2ed91f403a6c81d49711f910e7442284)
 
