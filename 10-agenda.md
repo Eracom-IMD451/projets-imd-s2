@@ -10,12 +10,15 @@ Voici l'agenda partagé des cours **Projets IMD** du jeudi et vendredi :
 
 ### S'abonner
 
-Lien pour s'abonner au calendrier du semestre: sujets de théorie, lancements et deadlines de projets: 
-[lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export) / 
-[lien https](https://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export)
+Voici les liens pour s'abonner avec votre application calendrier. Sur un appareil Apple, utiliser le lien "webcal". Sur d'autres systèmes, si le "webcal" ne fonctionne pas, utiliser le lien "https". 
 
-Calendrier Vacances et jours fériés Vaud : [lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export) / 
-[lien https](https://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export)
+Il y a deux différents calendriers: 
+
+1. **Calendrier des cours** : sujets de théorie, deadlines de projets: 
+[Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export) / 
+[Lien https](https://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export)
+2. **Calendrier Vacances et jours fériés Vaud** : [Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export) / 
+[Lien https](https://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export)
 
 ### Infos techniques
 
