@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agenda
+title: Agenda 📆
 permalink: agenda.html
 ---
 
@@ -14,14 +14,14 @@ Voici les liens pour s'abonner avec votre application calendrier. Sur un apparei
 
 Il y a deux différents calendriers: 
 
-1. **Calendrier des cours** : sujets de théorie, deadlines de projets: 
+1. 🎓 **Calendrier des cours** : sujets de théorie, deadlines de projets: 
 [Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export) / 
 [Lien https](https://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export)
-2. **Calendrier Vacances et jours fériés Vaud** : [Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export) / 
+2. 🏖️ **Calendrier Vacances et jours fériés Vaud** : [Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export) / 
 [Lien https](https://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export)
 
 ### Infos techniques
 
 Comment ce calendrier est produit? Ce calendrier est géré avec la [solution KSuite](https://www.infomaniak.com/fr/ksuite) d'Infomaniak. Ce système permet de collaborer avec d'autres utilisateurs ayant un compte Infomaniak. 
 
-Pour l'affichage dans cette page web, le calendrier a été importé dans Google Agenda, ce qui [permet de créer une vue pour un site web](https://support.google.com/calendar/answer/41207?hl=fr&sjid=4125294963105680397-EU).
+Pour l'affichage dans cette page web, le calendrier a été importé dans Google Agenda. Cet outil donne la possibilité de [créer une vue pour un site web](https://support.google.com/calendar/answer/41207?hl=fr&sjid=4125294963105680397-EU).
