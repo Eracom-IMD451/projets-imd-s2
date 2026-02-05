@@ -20,8 +20,8 @@ Il y a deux différents calendriers:
     2. 
 [Lien https](https://sync.infomaniak.com/calendars/MS01230/a36a4685-ebf7-44fc-9a4d-65f64b8e33aa?export)
 2. 🏖️ **Calendrier Vacances et jours fériés Vaud** : 
-    1. [Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export)
-    2. 
+    - [Lien webcal](webcal://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export)
+    - 
 [Lien https](https://sync.infomaniak.com/calendars/MS01230/bab33a0d-fe9d-4100-be02-f1ae5e1099e2?export)
 
 ### Infos techniques
